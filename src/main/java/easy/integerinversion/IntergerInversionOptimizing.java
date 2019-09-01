@@ -1,4 +1,4 @@
-package easy;
+package easy.integerinversion;
 
 public class IntergerInversionOptimizing {
     static class Solution {

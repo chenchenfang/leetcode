@@ -1,4 +1,4 @@
-package easy;
+package easy.integerinversion;
 
 public class IntegerInversion {
     public static void main(String[] args) {
