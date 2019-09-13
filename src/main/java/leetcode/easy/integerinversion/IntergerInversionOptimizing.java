@@ -1,4 +1,4 @@
-package easy.integerinversion;
+package leetcode.easy.integerinversion;
 
 public class IntergerInversionOptimizing {
     static class Solution {
